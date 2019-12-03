@@ -8,9 +8,14 @@ git clone https://github.com/Animesh-Ghosh/TripMoksha-Task.git
 
 2. Create virtual environment:
 
-```bash
-python3 -m venv venv
-```
+	**Linux**
+	```bash
+	python3 -m venv venv
+	```
+	**Windows**
+	```pwsh
+	python -m venv venv
+	```
 
 3. Activate virtual environment:
 
